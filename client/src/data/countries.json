@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "United States",
+    "flag": "🇺🇸",
+    "ip": "192.168.1.100",
+    "city": "New York",
+    "ping": 8,
+    "load": 43
+  },
+  {
+    "name": "Germany",
+    "flag": "🇩🇪", 
+    "ip": "176.58.122.45",
+    "city": "Berlin",
+    "ping": 15,
+    "load": 67
+  },
+  {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "ip": "159.65.177.83",
+    "city": "London", 
+    "ping": 22,
+    "load": 34
+  },
+  {
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "ip": "185.246.213.47",
+    "city": "Amsterdam",
+    "ping": 12,
+    "load": 56
+  },
+  {
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "ip": "210.188.201.15", 
+    "city": "Tokyo",
+    "ping": 89,
+    "load": 23
+  },
+  {
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "ip": "142.93.248.72",
+    "city": "Toronto",
+    "ping": 45,
+    "load": 78
+  },
+  {
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "ip": "103.252.114.28",
+    "city": "Sydney",
+    "ping": 156,
+    "load": 41
+  },
+  {
+    "name": "Singapore",
+    "flag": "🇸🇬",
+    "ip": "188.166.254.89", 
+    "city": "Singapore",
+    "ping": 123,
+    "load": 29
+  },
+  {
+    "name": "France",
+    "flag": "🇫🇷",
+    "ip": "192.168.2.50",
+    "city": "Paris",
+    "ping": 18,
+    "load": 52
+  },
+  {
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "ip": "176.10.104.30",
+    "city": "Stockholm",
+    "ping": 25,
+    "load": 38
+  },
+  {
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "ip": "185.246.211.78",
+    "city": "Zurich", 
+    "ping": 20,
+    "load": 45
+  },
+  {
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "ip": "178.62.225.89",
+    "city": "Oslo",
+    "ping": 28,
+    "load": 33
+  },
+  {
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "ip": "188.166.84.23",
+    "city": "Copenhagen",
+    "ping": 21,
+    "load": 48
+  },
+  {
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "ip": "95.216.158.42",
+    "city": "Helsinki",
+    "ping": 35,
+    "load": 31
+  },
+  {
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "ip": "159.89.201.67", 
+    "city": "Brussels",
+    "ping": 16,
+    "load": 58
+  },
+  {
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "ip": "188.166.102.45",
+    "city": "Vienna",
+    "ping": 23,
+    "load": 42
+  },
+  {
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "ip": "167.71.8.156",
+    "city": "Milan",
+    "ping": 26,
+    "load": 54
+  },
+  {
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "ip": "159.89.108.23",
+    "city": "Madrid",
+    "ping": 32,
+    "load": 39
+  },
+  {
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "ip": "188.166.156.89",
+    "city": "Lisbon",
+    "ping": 35,
+    "load": 27
+  },
+  {
+    "name": "Czech Republic",
+    "flag": "🇨🇿",
+    "ip": "159.89.203.67",
+    "city": "Prague",
+    "ping": 24,
+    "load": 46
+  },
+  {
+    "name": "Poland",
+    "flag": "🇵🇱",
+    "ip": "188.166.98.45",
+    "city": "Warsaw",
+    "ping": 29,
+    "load": 51
+  },
+  {
+    "name": "Hungary",
+    "flag": "🇭🇺",
+    "ip": "159.89.156.78",
+    "city": "Budapest",
+    "ping": 31,
+    "load": 37
+  },
+  {
+    "name": "Romania",
+    "flag": "🇷🇴",
+    "ip": "188.166.201.34",
+    "city": "Bucharest",
+    "ping": 36,
+    "load": 43
+  },
+  {
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "ip": "159.89.178.92",
+    "city": "Sofia",
+    "ping": 38,
+    "load": 29
+  },
+  {
+    "name": "Greece",
+    "flag": "🇬🇷",
+    "ip": "188.166.203.56",
+    "city": "Athens",
+    "ping": 41,
+    "load": 35
+  },
+  {
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "ip": "159.89.201.78",
+    "city": "Istanbul",
+    "ping": 47,
+    "load": 62
+  },
+  {
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "ip": "188.166.156.23",
+    "city": "Moscow",
+    "ping": 52,
+    "load": 68
+  },
+  {
+    "name": "Ukraine",
+    "flag": "🇺🇦",
+    "ip": "159.89.234.67",
+    "city": "Kyiv",
+    "ping": 44,
+    "load": 41
+  },
+  {
+    "name": "Latvia",
+    "flag": "🇱🇻",
+    "ip": "188.166.98.89",
+    "city": "Riga",
+    "ping": 33,
+    "load": 28
+  },
+  {
+    "name": "Lithuania",
+    "flag": "🇱🇹",
+    "ip": "159.89.201.45",
+    "city": "Vilnius",
+    "ping": 34,
+    "load": 32
+  },
+  {
+    "name": "Estonia",
+    "flag": "🇪🇪",
+    "ip": "188.166.234.78",
+    "city": "Tallinn",
+    "ping": 31,
+    "load": 26
+  },
+  {
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "ip": "159.89.156.92",
+    "city": "Reykjavik",
+    "ping": 45,
+    "load": 19
+  },
+  {
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "ip": "188.166.201.67",
+    "city": "Dublin",
+    "ping": 19,
+    "load": 44
+  },
+  {
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "ip": "159.89.203.34",
+    "city": "Luxembourg City",
+    "ping": 17,
+    "load": 36
+  },
+  {
+    "name": "Croatia",
+    "flag": "🇭🇷",
+    "ip": "188.166.156.45",
+    "city": "Zagreb",
+    "ping": 33,
+    "load": 40
+  },
+  {
+    "name": "Slovenia",
+    "flag": "🇸🇮",
+    "ip": "159.89.178.67",
+    "city": "Ljubljana",
+    "ping": 28,
+    "load": 34
+  },
+  {
+    "name": "Slovakia",
+    "flag": "🇸🇰",
+    "ip": "188.166.203.89",
+    "city": "Bratislava",
+    "ping": 27,
+    "load": 38
+  },
+  {
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "ip": "159.89.234.45",
+    "city": "Belgrade",
+    "ping": 39,
+    "load": 47
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "flag": "🇧🇦",
+    "ip": "188.166.98.78",
+    "city": "Sarajevo",
+    "ping": 42,
+    "load": 33
+  },
+  {
+    "name": "Montenegro",
+    "flag": "🇲🇪",
+    "ip": "159.89.201.92",
+    "city": "Podgorica",
+    "ping": 45,
+    "load": 25
+  },
+  {
+    "name": "North Macedonia",
+    "flag": "🇲🇰",
+    "ip": "188.166.234.34",
+    "city": "Skopje",
+    "ping": 43,
+    "load": 31
+  },
+  {
+    "name": "Albania",
+    "flag": "🇦🇱",
+    "ip": "159.89.156.67",
+    "city": "Tirana",
+    "ping": 46,
+    "load": 29
+  },
+  {
+    "name": "Moldova",
+    "flag": "🇲🇩",
+    "ip": "188.166.201.89",
+    "city": "Chisinau",
+    "ping": 48,
+    "load": 37
+  },
+  {
+    "name": "Belarus",
+    "flag": "🇧🇾",
+    "ip": "159.89.203.78",
+    "city": "Minsk",
+    "ping": 49,
+    "load": 42
+  },
+  {
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "ip": "188.166.156.92",
+    "city": "Seoul",
+    "ping": 95,
+    "load": 58
+  },
+  {
+    "name": "China",
+    "flag": "🇨🇳",
+    "ip": "159.89.234.78",
+    "city": "Hong Kong",
+    "ping": 134,
+    "load": 72
+  },
+  {
+    "name": "Taiwan",
+    "flag": "🇹🇼",
+    "ip": "188.166.98.34",
+    "city": "Taipei",
+    "ping": 142,
+    "load": 49
+  },
+  {
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "ip": "159.89.201.67",
+    "city": "Bangkok",
+    "ping": 156,
+    "load": 63
+  },
+  {
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "ip": "188.166.234.89",
+    "city": "Ho Chi Minh City",
+    "ping": 168,
+    "load": 55
+  },
+  {
+    "name": "Malaysia",
+    "flag": "🇲🇾",
+    "ip": "159.89.156.45",
+    "city": "Kuala Lumpur",
+    "ping": 145,
+    "load": 41
+  },
+  {
+    "name": "Philippines",
+    "flag": "🇵🇭",
+    "ip": "188.166.201.78",
+    "city": "Manila",
+    "ping": 178,
+    "load": 67
+  },
+  {
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "ip": "159.89.203.92",
+    "city": "Jakarta",
+    "ping": 189,
+    "load": 74
+  },
+  {
+    "name": "India",
+    "flag": "🇮🇳",
+    "ip": "188.166.156.67",
+    "city": "Mumbai",
+    "ping": 201,
+    "load": 81
+  },
+  {
+    "name": "Pakistan",
+    "flag": "🇵🇰",
+    "ip": "159.89.234.34",
+    "city": "Karachi",
+    "ping": 215,
+    "load": 69
+  },
+  {
+    "name": "Bangladesh",
+    "flag": "🇧🇩",
+    "ip": "188.166.98.89",
+    "city": "Dhaka",
+    "ping": 223,
+    "load": 76
+  },
+  {
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "ip": "159.89.201.45",
+    "city": "Colombo",
+    "ping": 198,
+    "load": 52
+  },
+  {
+    "name": "Myanmar",
+    "flag": "🇲🇲",
+    "ip": "188.166.234.67",
+    "city": "Yangon",
+    "ping": 234,
+    "load": 83
+  },
+  {
+    "name": "Cambodia",
+    "flag": "🇰🇭",
+    "ip": "159.89.156.78",
+    "city": "Phnom Penh",
+    "ping": 176,
+    "load": 47
+  },
+  {
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "ip": "188.166.201.92",
+    "city": "Vientiane",
+    "ping": 187,
+    "load": 39
+  },
+  {
+    "name": "Mongolia",
+    "flag": "🇲🇳",
+    "ip": "159.89.203.34",
+    "city": "Ulaanbaatar",
+    "ping": 98,
+    "load": 28
+  },
+  {
+    "name": "Kazakhstan",
+    "flag": "🇰🇿",
+    "ip": "188.166.156.89",
+    "city": "Almaty",
+    "ping": 76,
+    "load": 35
+  },
+  {
+    "name": "Uzbekistan",
+    "flag": "🇺🇿",
+    "ip": "159.89.234.67",
+    "city": "Tashkent",
+    "ping": 84,
+    "load": 43
+  },
+  {
+    "name": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "ip": "188.166.98.45",
+    "city": "Bishkek",
+    "ping": 89,
+    "load": 31
+  },
+  {
+    "name": "Tajikistan",
+    "flag": "🇹🇯",
+    "ip": "159.89.201.78",
+    "city": "Dushanbe",
+    "ping": 95,
+    "load": 27
+  },
+  {
+    "name": "Turkmenistan",
+    "flag": "🇹🇲",
+    "ip": "188.166.234.92",
+    "city": "Ashgabat",
+    "ping": 102,
+    "load": 34
+  },
+  {
+    "name": "Afghanistan",
+    "flag": "🇦🇫",
+    "ip": "159.89.156.34",
+    "city": "Kabul",
+    "ping": 145,
+    "load": 67
+  },
+  {
+    "name": "Iran",
+    "flag": "🇮🇷",
+    "ip": "188.166.201.67",
+    "city": "Tehran",
+    "ping": 87,
+    "load": 58
+  },
+  {
+    "name": "Iraq",
+    "flag": "🇮🇶",
+    "ip": "159.89.203.89",
+    "city": "Baghdad",
+    "ping": 94,
+    "load": 62
+  },
+  {
+    "name": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "ip": "188.166.156.78",
+    "city": "Riyadh",
+    "ping": 78,
+    "load": 54
+  },
+  {
+    "name": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "ip": "159.89.234.92",
+    "city": "Dubai",
+    "ping": 112,
+    "load": 46
+  },
+  {
+    "name": "Qatar",
+    "flag": "🇶🇦",
+    "ip": "188.166.98.67",
+    "city": "Doha",
+    "ping": 108,
+    "load": 41
+  },
+  {
+    "name": "Kuwait",
+    "flag": "🇰🇼",
+    "ip": "159.89.201.34",
+    "city": "Kuwait City",
+    "ping": 96,
+    "load": 38
+  },
+  {
+    "name": "Bahrain",
+    "flag": "🇧🇭",
+    "ip": "188.166.234.78",
+    "city": "Manama",
+    "ping": 104,
+    "load": 33
+  },
+  {
+    "name": "Oman",
+    "flag": "🇴🇲",
+    "ip": "159.89.156.89",
+    "city": "Muscat",
+    "ping": 118,
+    "load": 29
+  },
+  {
+    "name": "Yemen",
+    "flag": "🇾🇪",
+    "ip": "188.166.201.45",
+    "city": "Sanaa",
+    "ping": 156,
+    "load": 71
+  },
+  {
+    "name": "Jordan",
+    "flag": "🇯🇴",
+    "ip": "159.89.203.67",
+    "city": "Amman",
+    "ping": 89,
+    "load": 44
+  },
+  {
+    "name": "Lebanon",
+    "flag": "🇱🇧",
+    "ip": "188.166.156.92",
+    "city": "Beirut",
+    "ping": 85,
+    "load": 56
+  },
+  {
+    "name": "Syria",
+    "flag": "🇸🇾",
+    "ip": "159.89.234.45",
+    "city": "Damascus",
+    "ping": 92,
+    "load": 63
+  },
+  {
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "ip": "188.166.98.78",
+    "city": "Tel Aviv",
+    "ping": 81,
+    "load": 49
+  },
+  {
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "ip": "159.89.201.89",
+    "city": "Cairo",
+    "ping": 67,
+    "load": 59
+  },
+  {
+    "name": "Libya",
+    "flag": "🇱🇾",
+    "ip": "188.166.234.34",
+    "city": "Tripoli",
+    "ping": 73,
+    "load": 42
+  },
+  {
+    "name": "Tunisia",
+    "flag": "🇹🇳",
+    "ip": "159.89.156.67",
+    "city": "Tunis",
+    "ping": 58,
+    "load": 37
+  },
+  {
+    "name": "Algeria",
+    "flag": "🇩🇿",
+    "ip": "188.166.201.78",
+    "city": "Algiers",
+    "ping": 62,
+    "load": 45
+  },
+  {
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "ip": "159.89.203.92",
+    "city": "Casablanca",
+    "ping": 54,
+    "load": 39
+  },
+  {
+    "name": "Sudan",
+    "flag": "🇸🇩",
+    "ip": "188.166.156.34",
+    "city": "Khartoum",
+    "ping": 98,
+    "load": 67
+  },
+  {
+    "name": "Ethiopia",
+    "flag": "🇪🇹",
+    "ip": "159.89.234.67",
+    "city": "Addis Ababa",
+    "ping": 134,
+    "load": 78
+  },
+  {
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "ip": "188.166.98.89",
+    "city": "Nairobi",
+    "ping": 145,
+    "load": 65
+  },
+  {
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "ip": "159.89.201.45",
+    "city": "Dar es Salaam",
+    "ping": 156,
+    "load": 52
+  },
+  {
+    "name": "Uganda",
+    "flag": "🇺🇬",
+    "ip": "188.166.234.67",
+    "city": "Kampala",
+    "ping": 167,
+    "load": 59
+  },
+  {
+    "name": "Rwanda",
+    "flag": "🇷🇼",
+    "ip": "159.89.156.78",
+    "city": "Kigali",
+    "ping": 174,
+    "load": 43
+  },
+  {
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "ip": "188.166.201.92",
+    "city": "Cape Town",
+    "ping": 189,
+    "load": 71
+  },
+  {
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "ip": "159.89.203.34",
+    "city": "Lagos",
+    "ping": 134,
+    "load": 84
+  },
+  {
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "ip": "188.166.156.89",
+    "city": "Accra",
+    "ping": 127,
+    "load": 61
+  },
+  {
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "ip": "159.89.234.67",
+    "city": "Mexico City",
+    "ping": 67,
+    "load": 73
+  },
+  {
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "ip": "188.166.98.45",
+    "city": "São Paulo",
+    "ping": 123,
+    "load": 68
+  },
+  {
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "ip": "159.89.201.78",
+    "city": "Buenos Aires",
+    "ping": 178,
+    "load": 45
+  },
+  {
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "ip": "188.166.234.92",
+    "city": "Santiago",
+    "ping": 167,
+    "load": 38
+  },
+  {
+    "name": "Peru",
+    "flag": "🇵🇪",
+    "ip": "159.89.156.34",
+    "city": "Lima",
+    "ping": 143,
+    "load": 52
+  },
+  {
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "ip": "188.166.201.67",
+    "city": "Bogotá",
+    "ping": 89,
+    "load": 61
+  },
+  {
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "ip": "159.89.203.89",
+    "city": "Caracas",
+    "ping": 95,
+    "load": 74
+  },
+  {
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "ip": "188.166.156.78",
+    "city": "Quito",
+    "ping": 112,
+    "load": 47
+  },
+  {
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "ip": "159.89.234.92",
+    "city": "La Paz",
+    "ping": 134,
+    "load": 35
+  },
+  {
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "ip": "188.166.98.67",
+    "city": "Montevideo",
+    "ping": 189,
+    "load": 31
+  },
+  {
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "ip": "159.89.201.34",
+    "city": "Asunción",
+    "ping": 156,
+    "load": 28
+  },
+  {
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "ip": "188.166.234.78",
+    "city": "Auckland",
+    "ping": 234,
+    "load": 42
+  },
+  {
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "ip": "159.89.156.123",
+    "city": "Nassau",
+    "ping": 87,
+    "load": 29
+  },
+  {
+    "name": "Barbados",
+    "flag": "🇧🇧",
+    "ip": "188.166.201.134",
+    "city": "Bridgetown",
+    "ping": 92,
+    "load": 35
+  },
+  {
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "ip": "159.89.203.156",
+    "city": "Kingston",
+    "ping": 89,
+    "load": 47
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "flag": "🇹🇹",
+    "ip": "188.166.98.178",
+    "city": "Port of Spain",
+    "ping": 94,
+    "load": 41
+  },
+  {
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "ip": "159.89.234.189",
+    "city": "Havana",
+    "ping": 115,
+    "load": 58
+  },
+  {
+    "name": "Dominican Republic",
+    "flag": "🇩🇴",
+    "ip": "188.166.156.201",
+    "city": "Santo Domingo",
+    "ping": 91,
+    "load": 52
+  },
+  {
+    "name": "Haiti",
+    "flag": "🇭🇹",
+    "ip": "159.89.201.223",
+    "city": "Port-au-Prince",
+    "ping": 98,
+    "load": 63
+  },
+  {
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "ip": "188.166.234.145",
+    "city": "San José",
+    "ping": 76,
+    "load": 39
+  },
+  {
+    "name": "Panama",
+    "flag": "🇵🇦",
+    "ip": "159.89.156.167",
+    "city": "Panama City",
+    "ping": 82,
+    "load": 44
+  },
+  {
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "ip": "188.166.201.189",
+    "city": "Managua",
+    "ping": 85,
+    "load": 51
+  },
+  {
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "ip": "159.89.203.212",
+    "city": "Tegucigalpa",
+    "ping": 88,
+    "load": 46
+  },
+  {
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "ip": "188.166.98.234",
+    "city": "San Salvador",
+    "ping": 84,
+    "load": 42
+  },
+  {
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "ip": "159.89.234.256",
+    "city": "Guatemala City",
+    "ping": 79,
+    "load": 48
+  },
+  {
+    "name": "Belize",
+    "flag": "🇧🇿",
+    "ip": "188.166.156.278",
+    "city": "Belize City",
+    "ping": 93,
+    "load": 33
+  },
+  {
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "ip": "159.89.201.289",
+    "city": "Georgetown",
+    "ping": 125,
+    "load": 37
+  },
+  {
+    "name": "Suriname",
+    "flag": "🇸🇷",
+    "ip": "188.166.234.301",
+    "city": "Paramaribo",
+    "ping": 134,
+    "load": 29
+  },
+  {
+    "name": "French Guiana",
+    "flag": "🇬🇫",
+    "ip": "159.89.156.312",
+    "city": "Cayenne",
+    "ping": 128,
+    "load": 31
+  },
+  {
+    "name": "Fiji",
+    "flag": "🇫🇯",
+    "ip": "188.166.201.323",
+    "city": "Suva",
+    "ping": 287,
+    "load": 25
+  },
+  {
+    "name": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "ip": "159.89.203.334",
+    "city": "Port Moresby",
+    "ping": 298,
+    "load": 38
+  },
+  {
+    "name": "Solomon Islands",
+    "flag": "🇸🇧",
+    "ip": "188.166.98.345",
+    "city": "Honiara",
+    "ping": 312,
+    "load": 22
+  },
+  {
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "ip": "159.89.234.356",
+    "city": "Port Vila",
+    "ping": 289,
+    "load": 19
+  },
+  {
+    "name": "New Caledonia",
+    "flag": "🇳🇨",
+    "ip": "188.166.156.367",
+    "city": "Nouméa",
+    "ping": 294,
+    "load": 26
+  },
+  {
+    "name": "French Polynesia",
+    "flag": "🇵🇫",
+    "ip": "159.89.201.378",
+    "city": "Papeete",
+    "ping": 345,
+    "load": 18
+  },
+  {
+    "name": "Samoa",
+    "flag": "🇼🇸",
+    "ip": "188.166.234.389",
+    "city": "Apia",
+    "ping": 321,
+    "load": 21
+  },
+  {
+    "name": "Tonga",
+    "flag": "🇹🇴",
+    "ip": "159.89.156.390",
+    "city": "Nuku'alofa",
+    "ping": 334,
+    "load": 17
+  },
+  {
+    "name": "Maldives",
+    "flag": "🇲🇻",
+    "ip": "188.166.201.401",
+    "city": "Malé",
+    "ping": 187,
+    "load": 34
+  },
+  {
+    "name": "Seychelles",
+    "flag": "🇸🇨",
+    "ip": "159.89.203.412",
+    "city": "Victoria",
+    "ping": 203,
+    "load": 28
+  },
+  {
+    "name": "Mauritius",
+    "flag": "🇲🇺",
+    "ip": "188.166.98.423",
+    "city": "Port Louis",
+    "ping": 198,
+    "load": 41
+  },
+  {
+    "name": "Madagascar",
+    "flag": "🇲🇬",
+    "ip": "159.89.234.434",
+    "city": "Antananarivo",
+    "ping": 234,
+    "load": 56
+  },
+  {
+    "name": "Réunion",
+    "flag": "🇷🇪",
+    "ip": "188.166.156.445",
+    "city": "Saint-Denis",
+    "ping": 221,
+    "load": 33
+  },
+  {
+    "name": "Comoros",
+    "flag": "🇰🇲",
+    "ip": "159.89.201.456",
+    "city": "Moroni",
+    "ping": 267,
+    "load": 24
+  },
+  {
+    "name": "Mayotte",
+    "flag": "🇾🇹",
+    "ip": "188.166.234.467",
+    "city": "Mamoudzou",
+    "ping": 254,
+    "load": 27
+  },
+  {
+    "name": "Djibouti",
+    "flag": "🇩🇯",
+    "ip": "159.89.156.478",
+    "city": "Djibouti City",
+    "ping": 143,
+    "load": 49
+  },
+  {
+    "name": "Eritrea",
+    "flag": "🇪🇷",
+    "ip": "188.166.201.489",
+    "city": "Asmara",
+    "ping": 156,
+    "load": 54
+  },
+  {
+    "name": "Somalia",
+    "flag": "🇸🇴",
+    "ip": "159.89.203.490",
+    "city": "Mogadishu",
+    "ping": 189,
+    "load": 67
+  },
+  {
+    "name": "Botswana",
+    "flag": "🇧🇼",
+    "ip": "188.166.98.501",
+    "city": "Gaborone",
+    "ping": 201,
+    "load": 38
+  },
+  {
+    "name": "Namibia",
+    "flag": "🇳🇦",
+    "ip": "159.89.234.512",
+    "city": "Windhoek",
+    "ping": 198,
+    "load": 32
+  },
+  {
+    "name": "Zambia",
+    "flag": "🇿🇲",
+    "ip": "188.166.156.523",
+    "city": "Lusaka",
+    "ping": 187,
+    "load": 45
+  },
+  {
+    "name": "Zimbabwe",
+    "flag": "🇿🇼",
+    "ip": "159.89.201.534",
+    "city": "Harare",
+    "ping": 193,
+    "load": 52
+  },
+  {
+    "name": "Malawi",
+    "flag": "🇲🇼",
+    "ip": "188.166.234.545",
+    "city": "Lilongwe",
+    "ping": 205,
+    "load": 48
+  },
+  {
+    "name": "Mozambique",
+    "flag": "🇲🇿",
+    "ip": "159.89.156.556",
+    "city": "Maputo",
+    "ping": 212,
+    "load": 59
+  },
+  {
+    "name": "Lesotho",
+    "flag": "🇱🇸",
+    "ip": "188.166.201.567",
+    "city": "Maseru",
+    "ping": 199,
+    "load": 35
+  },
+  {
+    "name": "Eswatini",
+    "flag": "🇸🇿",
+    "ip": "159.89.203.578",
+    "city": "Mbabane",
+    "ping": 196,
+    "load": 31
+  },
+  {
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "ip": "188.166.98.589",
+    "city": "Luanda",
+    "ping": 178,
+    "load": 61
+  },
+  {
+    "name": "Democratic Republic of Congo",
+    "flag": "🇨🇩",
+    "ip": "159.89.234.590",
+    "city": "Kinshasa",
+    "ping": 223,
+    "load": 73
+  },
+  {
+    "name": "Republic of Congo",
+    "flag": "🇨🇬",
+    "ip": "188.166.156.601",
+    "city": "Brazzaville",
+    "ping": 198,
+    "load": 56
+  },
+  {
+    "name": "Central African Republic",
+    "flag": "🇨🇫",
+    "ip": "159.89.201.612",
+    "city": "Bangui",
+    "ping": 234,
+    "load": 68
+  },
+  {
+    "name": "Chad",
+    "flag": "🇹🇩",
+    "ip": "188.166.234.623",
+    "city": "N'Djamena",
+    "ping": 198,
+    "load": 71
+  },
+  {
+    "name": "Cameroon",
+    "flag": "🇨🇲",
+    "ip": "159.89.156.634",
+    "city": "Yaoundé",
+    "ping": 156,
+    "load": 63
+  },
+  {
+    "name": "Equatorial Guinea",
+    "flag": "🇬🇶",
+    "ip": "188.166.201.645",
+    "city": "Malabo",
+    "ping": 189,
+    "load": 44
+  },
+  {
+    "name": "Gabon",
+    "flag": "🇬🇦",
+    "ip": "159.89.203.656",
+    "city": "Libreville",
+    "ping": 167,
+    "load": 39
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "flag": "🇸🇹",
+    "ip": "188.166.98.667",
+    "city": "São Tomé",
+    "ping": 201,
+    "load": 26
+  },
+  {
+    "name": "Cape Verde",
+    "flag": "🇨🇻",
+    "ip": "159.89.234.678",
+    "city": "Praia",
+    "ping": 134,
+    "load": 31
+  },
+  {
+    "name": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "ip": "188.166.156.689",
+    "city": "Bissau",
+    "ping": 145,
+    "load": 47
+  },
+  {
+    "name": "Guinea",
+    "flag": "🇬🇳",
+    "ip": "159.89.201.690",
+    "city": "Conakry",
+    "ping": 156,
+    "load": 54
+  },
+  {
+    "name": "Sierra Leone",
+    "flag": "🇸🇱",
+    "ip": "188.166.234.701",
+    "city": "Freetown",
+    "ping": 167,
+    "load": 58
+  },
+  {
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "ip": "159.89.156.712",
+    "city": "Monrovia",
+    "ping": 178,
+    "load": 61
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "flag": "🇨🇮",
+    "ip": "188.166.201.723",
+    "city": "Abidjan",
+    "ping": 145,
+    "load": 66
+  },
+  {
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "ip": "159.89.203.734",
+    "city": "Ouagadougou",
+    "ping": 189,
+    "load": 52
+  },
+  {
+    "name": "Mali",
+    "flag": "🇲🇱",
+    "ip": "188.166.98.745",
+    "city": "Bamako",
+    "ping": 167,
+    "load": 59
+  },
+  {
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "ip": "159.89.234.756",
+    "city": "Dakar",
+    "ping": 134,
+    "load": 48
+  },
+  {
+    "name": "Mauritania",
+    "flag": "🇲🇷",
+    "ip": "188.166.156.767",
+    "city": "Nouakchott",
+    "ping": 145,
+    "load": 41
+  },
+  {
+    "name": "Gambia",
+    "flag": "🇬🇲",
+    "ip": "159.89.201.778",
+    "city": "Banjul",
+    "ping": 156,
+    "load": 36
+  },
+  {
+    "name": "Niger",
+    "flag": "🇳🇪",
+    "ip": "188.166.234.789",
+    "city": "Niamey",
+    "ping": 178,
+    "load": 64
+  },
+  {
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "ip": "159.89.156.790",
+    "city": "Lomé",
+    "ping": 159,
+    "load": 53
+  },
+  {
+    "name": "Benin",
+    "flag": "🇧🇯",
+    "ip": "188.166.201.801",
+    "city": "Porto-Novo",
+    "ping": 167,
+    "load": 57
+  },
+  {
+    "name": "Cyprus",
+    "flag": "🇨🇾",
+    "ip": "159.89.203.812",
+    "city": "Nicosia",
+    "ping": 78,
+    "load": 43
+  },
+  {
+    "name": "Malta",
+    "flag": "🇲🇹",
+    "ip": "188.166.98.823",
+    "city": "Valletta",
+    "ping": 65,
+    "load": 38
+  },
+  {
+    "name": "Andorra",
+    "flag": "🇦🇩",
+    "ip": "159.89.234.834",
+    "city": "Andorra la Vella",
+    "ping": 45,
+    "load": 24
+  },
+  {
+    "name": "Monaco",
+    "flag": "🇲🇨",
+    "ip": "188.166.156.845",
+    "city": "Monaco",
+    "ping": 38,
+    "load": 29
+  },
+  {
+    "name": "San Marino",
+    "flag": "🇸🇲",
+    "ip": "159.89.201.856",
+    "city": "San Marino",
+    "ping": 42,
+    "load": 32
+  },
+  {
+    "name": "Vatican City",
+    "flag": "🇻🇦",
+    "ip": "188.166.234.867",
+    "city": "Vatican City",
+    "ping": 41,
+    "load": 15
+  },
+  {
+    "name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "ip": "159.89.156.878",
+    "city": "Vaduz",
+    "ping": 39,
+    "load": 21
+  },
+  {
+    "name": "Faroe Islands",
+    "flag": "🇫🇴",
+    "ip": "188.166.201.889",
+    "city": "Tórshavn",
+    "ping": 67,
+    "load": 18
+  },
+  {
+    "name": "Greenland",
+    "flag": "🇬🇱",
+    "ip": "159.89.203.890",
+    "city": "Nuuk",
+    "ping": 134,
+    "load": 12
+  },
+  {
+    "name": "Gibraltar",
+    "flag": "🇬🇮",
+    "ip": "188.166.98.901",
+    "city": "Gibraltar",
+    "ping": 56,
+    "load": 33
+  },
+  {
+    "name": "Isle of Man",
+    "flag": "🇮🇲",
+    "ip": "159.89.234.912",
+    "city": "Douglas",
+    "ping": 34,
+    "load": 27
+  },
+  {
+    "name": "Jersey",
+    "flag": "🇯🇪",
+    "ip": "188.166.156.923",
+    "city": "Saint Helier",
+    "ping": 32,
+    "load": 25
+  },
+  {
+    "name": "Guernsey",
+    "flag": "🇬🇬",
+    "ip": "159.89.201.934",
+    "city": "Saint Peter Port",
+    "ping": 31,
+    "load": 23
+  },
+  {
+    "name": "Åland Islands",
+    "flag": "🇦🇽",
+    "ip": "188.166.234.945",
+    "city": "Mariehamn",
+    "ping": 54,
+    "load": 19
+  },
+  {
+    "name": "Bermuda",
+    "flag": "🇧🇲",
+    "ip": "159.89.156.956",
+    "city": "Hamilton",
+    "ping": 78,
+    "load": 28
+  },
+  {
+    "name": "Cayman Islands",
+    "flag": "🇰🇾",
+    "ip": "188.166.201.967",
+    "city": "George Town",
+    "ping": 89,
+    "load": 22
+  },
+  {
+    "name": "British Virgin Islands",
+    "flag": "🇻🇬",
+    "ip": "159.89.203.978",
+    "city": "Road Town",
+    "ping": 94,
+    "load": 19
+  },
+  {
+    "name": "US Virgin Islands",
+    "flag": "🇻🇮",
+    "ip": "188.166.98.989",
+    "city": "Charlotte Amalie",
+    "ping": 91,
+    "load": 26
+  },
+  {
+    "name": "Puerto Rico",
+    "flag": "🇵🇷",
+    "ip": "159.89.234.990",
+    "city": "San Juan",
+    "ping": 87,
+    "load": 44
+  },
+  {
+    "name": "Aruba",
+    "flag": "🇦🇼",
+    "ip": "188.166.156.1001",
+    "city": "Oranjestad",
+    "ping": 96,
+    "load": 31
+  },
+  {
+    "name": "Curaçao",
+    "flag": "🇨🇼",
+    "ip": "159.89.201.1012",
+    "city": "Willemstad",
+    "ping": 98,
+    "load": 34
+  },
+  {
+    "name": "Sint Maarten",
+    "flag": "🇸🇽",
+    "ip": "188.166.234.1023",
+    "city": "Philipsburg",
+    "ping": 93,
+    "load": 27
+  },
+  {
+    "name": "Turks and Caicos",
+    "flag": "🇹🇨",
+    "ip": "159.89.156.1034",
+    "city": "Cockburn Town",
+    "ping": 85,
+    "load": 21
+  },
+  {
+    "name": "Anguilla",
+    "flag": "🇦🇮",
+    "ip": "188.166.201.1045",
+    "city": "The Valley",
+    "ping": 92,
+    "load": 18
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "flag": "🇦🇬",
+    "ip": "159.89.203.1056",
+    "city": "Saint John's",
+    "ping": 89,
+    "load": 24
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "flag": "🇰🇳",
+    "ip": "188.166.98.1067",
+    "city": "Basseterre",
+    "ping": 90,
+    "load": 20
+  },
+  {
+    "name": "Dominica",
+    "flag": "🇩🇲",
+    "ip": "159.89.234.1078",
+    "city": "Roseau",
+    "ping": 91,
+    "load": 23
+  },
+  {
+    "name": "Saint Lucia",
+    "flag": "🇱🇨",
+    "ip": "188.166.156.1089",
+    "city": "Castries",
+    "ping": 92,
+    "load": 26
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "flag": "🇻🇨",
+    "ip": "159.89.201.1090",
+    "city": "Kingstown",
+    "ping": 93,
+    "load": 22
+  },
+  {
+    "name": "Grenada",
+    "flag": "🇬🇩",
+    "ip": "188.166.234.1101",
+    "city": "Saint George's",
+    "ping": 94,
+    "load": 25
+  },
+  {
+    "name": "Martinique",
+    "flag": "🇲🇶",
+    "ip": "159.89.156.1112",
+    "city": "Fort-de-France",
+    "ping": 91,
+    "load": 29
+  },
+  {
+    "name": "Guadeloupe",
+    "flag": "🇬🇵",
+    "ip": "188.166.201.1123",
+    "city": "Basse-Terre",
+    "ping": 90,
+    "load": 28
+  },
+  {
+    "name": "Montserrat",
+    "flag": "🇲🇸",
+    "ip": "159.89.203.1134",
+    "city": "Plymouth",
+    "ping": 95,
+    "load": 16
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "flag": "🇵🇲",
+    "ip": "188.166.98.1145",
+    "city": "Saint-Pierre",
+    "ping": 67,
+    "load": 14
+  },
+  {
+    "name": "Saint Helena",
+    "flag": "🇸🇭",
+    "ip": "159.89.234.1156",
+    "city": "Jamestown",
+    "ping": 298,
+    "load": 11
+  },
+  {
+    "name": "Ascension Island",
+    "flag": "🇦🇨",
+    "ip": "188.166.156.1167",
+    "city": "Georgetown",
+    "ping": 287,
+    "load": 8
+  },
+  {
+    "name": "Tristan da Cunha",
+    "flag": "🇹🇦",
+    "ip": "159.89.201.1178",
+    "city": "Edinburgh",
+    "ping": 312,
+    "load": 5
+  },
+  {
+    "name": "Falkland Islands",
+    "flag": "🇫🇰",
+    "ip": "188.166.234.1189",
+    "city": "Stanley",
+    "ping": 278,
+    "load": 9
+  },
+  {
+    "name": "South Georgia",
+    "flag": "🇬🇸",
+    "ip": "159.89.156.1190",
+    "city": "Grytviken",
+    "ping": 289,
+    "load": 3
+  }
+]

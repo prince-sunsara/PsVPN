@@ -1,0 +1,65 @@
+Build a fully responsive React.js web application for a fictional VPN service. The app should have the following features:
+
+Theme & UI Style:
+
+Hacker-themed design with a dark background (#0a0a0a or #000) and neon green (#00ff7f) accents.
+
+Animated hacker-style text (like terminal typing effect).
+
+3D aesthetic using Three.js or react-three-fiber (rotating globe, network lines, or floating 3D VPN shield icon).
+
+Smooth transitions and futuristic UI animations (e.g., glowing buttons, scan-line background).
+
+Intro Animation:
+
+On page load, display a fullscreen intro that says “Hello Hacker” with a typing animation and glitch effects.
+
+After 3 seconds, fade into the main application.
+
+VPN Server Simulation:
+
+Maintain a list of minimum 100 country locations (name + flag + IP address simulation).
+
+Automatically “connect” to a new location every 60 seconds (change displayed country name, flag, and simulated IP).
+
+Display server change animation (e.g., map pin glowing and moving, 3D globe rotating to the country).
+
+Main Dashboard:
+
+A large 3D globe in the center (interactive: drag to rotate, zoom).
+
+Current connected country info (flag, name, fake IP).
+
+Timer showing when the next country change will happen.
+
+A list of available countries in a sidebar (scrollable, with search).
+
+Extra Visual Effects:
+
+Background animated binary rain effect (like Matrix) with low opacity.
+
+Hover effects on all buttons and UI elements (glowing neon borders).
+
+Subtle particle effects around the globe.
+
+Technical Requirements:
+
+Use React.js with functional components.
+
+For 3D, use react-three-fiber and drei helpers.
+
+Use Framer Motion for animations.
+
+Store country data in a JSON file and cycle through it automatically.
+
+Code must be clean, modular, and responsive for desktop & mobile.
+
+Deployment:
+
+Optimized for fast loading.
+
+Works without actual VPN backend (purely frontend simulation).
+
+Mobile-friendly with touch interactions for globe rotation.
+
+The final product should feel immersive and cinematic, like a hacker movie interface, while still being functional.
